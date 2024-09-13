@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    background-color: rgb(38, 21, 21);
+    height: 60px;
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#contents{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#logo{
+  
+    position: relative;
+    left: 100px;
+}
+main{
+    background-color: black;
+}
